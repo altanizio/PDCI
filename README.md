@@ -2,4 +2,6 @@
 
 Análise dos dados utilizados no artigo intitulado de INFLUÊNCIA DA EXPOSIÇÃO QUANTITATIVA E QUALITATIVA DA VIAGEM NA SEGURANÇA VIÁRIA DOS CICLISTAS EM FORTALEZA: UM ESTUDO SOBRE A PERCEPÇÃO DO USUÁRIO
 
+![](Imagens/app.gif?raw=true)
+
 link para o artigo: http://www.anpet.org.br/anais34/documentos/2020/Tr%C3%A1fego%20Urbano%20e%20Rodovi%C3%A1rio/Seguran%C3%A7a%20Vi%C3%A1ria%20I/1_267_AC.pdf
